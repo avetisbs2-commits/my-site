@@ -9,6 +9,11 @@
       "version": "1.1.0",
       "date": "2026-02-01",
       "notes": "New title and a changelog."
+    },
+    {
+      "version": "1.2.0",
+      "date": "2026-03-01",
+      "notes": "Automated release."
     }
   ]
 }
